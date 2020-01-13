@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/britto/.dotnet/store/|arch|/|tfm|",
+      "/Users/britto/.nuget/packages"
+    ]
+  }
+}

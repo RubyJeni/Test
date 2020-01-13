@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{99A802FA-28F5-42AB-B5FA-1D9680919186}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Rabobank.Training.WebApp/ClientApp/src/app/nav-menu/nav-menu.component.html">
+    <Files>
+      <File FileName="Rabobank.Training.WebApp/Controllers/PortfolioController.cs" Line="18" Column="17" />
+      <File FileName="Rabobank.Training.WebApp/ClientApp/src/app/nav-menu/nav-menu.component.html" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Rabobank.Training" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Rabobank.Training.WebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

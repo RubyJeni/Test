@@ -1,0 +1,8 @@
+/Users/britto/Desktop/Ruby/Rabobank.Training/Rabobank.Training.ClassLibrary/bin/Debug/netcoreapp3.1/Rabobank.Training.ClassLibrary.deps.json
+/Users/britto/Desktop/Ruby/Rabobank.Training/Rabobank.Training.ClassLibrary/bin/Debug/netcoreapp3.1/Rabobank.Training.ClassLibrary.dll
+/Users/britto/Desktop/Ruby/Rabobank.Training/Rabobank.Training.ClassLibrary/bin/Debug/netcoreapp3.1/Rabobank.Training.ClassLibrary.pdb
+/Users/britto/Desktop/Ruby/Rabobank.Training/Rabobank.Training.ClassLibrary/obj/Debug/netcoreapp3.1/Rabobank.Training.ClassLibrary.csprojAssemblyReference.cache
+/Users/britto/Desktop/Ruby/Rabobank.Training/Rabobank.Training.ClassLibrary/obj/Debug/netcoreapp3.1/Rabobank.Training.ClassLibrary.AssemblyInfoInputs.cache
+/Users/britto/Desktop/Ruby/Rabobank.Training/Rabobank.Training.ClassLibrary/obj/Debug/netcoreapp3.1/Rabobank.Training.ClassLibrary.AssemblyInfo.cs
+/Users/britto/Desktop/Ruby/Rabobank.Training/Rabobank.Training.ClassLibrary/obj/Debug/netcoreapp3.1/Rabobank.Training.ClassLibrary.dll
+/Users/britto/Desktop/Ruby/Rabobank.Training/Rabobank.Training.ClassLibrary/obj/Debug/netcoreapp3.1/Rabobank.Training.ClassLibrary.pdb

@@ -1,0 +1,11 @@
+/Users/britto/Desktop/Ruby/Rabobank.Training/Rabobank.Training.BussinessLayer/bin/Debug/netcoreapp3.1/Rabobank.Training.BussinessLayer.deps.json
+/Users/britto/Desktop/Ruby/Rabobank.Training/Rabobank.Training.BussinessLayer/bin/Debug/netcoreapp3.1/Rabobank.Training.BussinessLayer.dll
+/Users/britto/Desktop/Ruby/Rabobank.Training/Rabobank.Training.BussinessLayer/bin/Debug/netcoreapp3.1/Rabobank.Training.BussinessLayer.pdb
+/Users/britto/Desktop/Ruby/Rabobank.Training/Rabobank.Training.BussinessLayer/bin/Debug/netcoreapp3.1/Rabobank.Training.ClassLibrary.dll
+/Users/britto/Desktop/Ruby/Rabobank.Training/Rabobank.Training.BussinessLayer/bin/Debug/netcoreapp3.1/Rabobank.Training.ClassLibrary.pdb
+/Users/britto/Desktop/Ruby/Rabobank.Training/Rabobank.Training.BussinessLayer/obj/Debug/netcoreapp3.1/Rabobank.Training.BussinessLayer.csprojAssemblyReference.cache
+/Users/britto/Desktop/Ruby/Rabobank.Training/Rabobank.Training.BussinessLayer/obj/Debug/netcoreapp3.1/Rabobank.Training.BussinessLayer.AssemblyInfoInputs.cache
+/Users/britto/Desktop/Ruby/Rabobank.Training/Rabobank.Training.BussinessLayer/obj/Debug/netcoreapp3.1/Rabobank.Training.BussinessLayer.AssemblyInfo.cs
+/Users/britto/Desktop/Ruby/Rabobank.Training/Rabobank.Training.BussinessLayer/obj/Debug/netcoreapp3.1/Rabobank.Training.BussinessLayer.csproj.CopyComplete
+/Users/britto/Desktop/Ruby/Rabobank.Training/Rabobank.Training.BussinessLayer/obj/Debug/netcoreapp3.1/Rabobank.Training.BussinessLayer.dll
+/Users/britto/Desktop/Ruby/Rabobank.Training/Rabobank.Training.BussinessLayer/obj/Debug/netcoreapp3.1/Rabobank.Training.BussinessLayer.pdb

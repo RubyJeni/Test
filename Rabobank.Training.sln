@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rabobank.Training.ClassLibrary", "Rabobank.Training.ClassLibrary\Rabobank.Training.ClassLibrary.csproj", "{E16D25DB-FA70-4E92-8580-8DA29E95171F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rabobank.Training.BussinessLayer", "Rabobank.Training.BussinessLayer\Rabobank.Training.BussinessLayer.csproj", "{61754612-964A-45B3-9059-771B015CBE70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rabobank.Training.WebApp", "Rabobank.Training.WebApp\Rabobank.Training.WebApp.csproj", "{99A802FA-28F5-42AB-B5FA-1D9680919186}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E16D25DB-FA70-4E92-8580-8DA29E95171F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E16D25DB-FA70-4E92-8580-8DA29E95171F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E16D25DB-FA70-4E92-8580-8DA29E95171F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E16D25DB-FA70-4E92-8580-8DA29E95171F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61754612-964A-45B3-9059-771B015CBE70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61754612-964A-45B3-9059-771B015CBE70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61754612-964A-45B3-9059-771B015CBE70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61754612-964A-45B3-9059-771B015CBE70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99A802FA-28F5-42AB-B5FA-1D9680919186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A802FA-28F5-42AB-B5FA-1D9680919186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A802FA-28F5-42AB-B5FA-1D9680919186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A802FA-28F5-42AB-B5FA-1D9680919186}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

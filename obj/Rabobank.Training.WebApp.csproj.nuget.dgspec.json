@@ -1,0 +1,307 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/WebApplication1/Rabobank.Training.WebApp.csproj": {}
+  },
+  "projects": {
+    "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/ClassLibrary1/Rabobank.Training.ClassLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/ClassLibrary1/Rabobank.Training.ClassLibrary.csproj",
+        "projectName": "Rabobank.Training.ClassLibrary",
+        "projectPath": "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/ClassLibrary1/Rabobank.Training.ClassLibrary.csproj",
+        "packagesPath": "/Users/britto/.nuget/packages/",
+        "outputPath": "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/ClassLibrary1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/britto/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/Rabobank.Training.ViewModels/Rabobank.Training.ViewModels.csproj": {
+                "projectPath": "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/Rabobank.Training.ViewModels/Rabobank.Training.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/Rabobank.Training.Business.Interfaces/Rabobank.Training.Business.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/Rabobank.Training.Business.Interfaces/Rabobank.Training.Business.Interfaces.csproj",
+        "projectName": "Rabobank.Training.Business.Interfaces",
+        "projectPath": "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/Rabobank.Training.Business.Interfaces/Rabobank.Training.Business.Interfaces.csproj",
+        "packagesPath": "/Users/britto/.nuget/packages/",
+        "outputPath": "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/Rabobank.Training.Business.Interfaces/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/britto/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/ClassLibrary1/Rabobank.Training.ClassLibrary.csproj": {
+                "projectPath": "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/ClassLibrary1/Rabobank.Training.ClassLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/Rabobank.Training.BusinessLayer/Rabobank.Training.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/Rabobank.Training.BusinessLayer/Rabobank.Training.BusinessLayer.csproj",
+        "projectName": "Rabobank.Training.BusinessLayer",
+        "projectPath": "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/Rabobank.Training.BusinessLayer/Rabobank.Training.BusinessLayer.csproj",
+        "packagesPath": "/Users/britto/.nuget/packages/",
+        "outputPath": "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/Rabobank.Training.BusinessLayer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/britto/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/ClassLibrary1/Rabobank.Training.ClassLibrary.csproj": {
+                "projectPath": "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/ClassLibrary1/Rabobank.Training.ClassLibrary.csproj"
+              },
+              "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/Rabobank.Training.Business.Interfaces/Rabobank.Training.Business.Interfaces.csproj": {
+                "projectPath": "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/Rabobank.Training.Business.Interfaces/Rabobank.Training.Business.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/Rabobank.Training.ViewModels/Rabobank.Training.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/Rabobank.Training.ViewModels/Rabobank.Training.ViewModels.csproj",
+        "projectName": "Rabobank.Training.ViewModels",
+        "projectPath": "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/Rabobank.Training.ViewModels/Rabobank.Training.ViewModels.csproj",
+        "packagesPath": "/Users/britto/.nuget/packages/",
+        "outputPath": "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/Rabobank.Training.ViewModels/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/britto/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/WebApplication1/Rabobank.Training.WebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/WebApplication1/Rabobank.Training.WebApp.csproj",
+        "projectName": "Rabobank.Training.WebApp",
+        "projectPath": "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/WebApplication1/Rabobank.Training.WebApp.csproj",
+        "packagesPath": "/Users/britto/.nuget/packages/",
+        "outputPath": "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/WebApplication1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/britto/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/ClassLibrary1/Rabobank.Training.ClassLibrary.csproj": {
+                "projectPath": "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/ClassLibrary1/Rabobank.Training.ClassLibrary.csproj"
+              },
+              "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/Rabobank.Training.Business.Interfaces/Rabobank.Training.Business.Interfaces.csproj": {
+                "projectPath": "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/Rabobank.Training.Business.Interfaces/Rabobank.Training.Business.Interfaces.csproj"
+              },
+              "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/Rabobank.Training.BusinessLayer/Rabobank.Training.BusinessLayer.csproj": {
+                "projectPath": "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/Rabobank.Training.BusinessLayer/Rabobank.Training.BusinessLayer.csproj"
+              },
+              "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/Rabobank.Training.ViewModels/Rabobank.Training.ViewModels.csproj": {
+                "projectPath": "/Users/britto/Desktop/Ruby/RabobankTrainingV1-master/Rabobank.Training.ViewModels/Rabobank.Training.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.SpaServices.Extensions": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
